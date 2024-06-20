@@ -1,2 +1,2 @@
-# Django-
+# Django
 Todo_Web app
